@@ -48,7 +48,7 @@ Built for brokers, project developers, homebuilders, architects, valuers and inv
   </tr>
 </table>
 
-After installing, sign in once with your Assetfy account. An Assetfy account with a PROFESSIONAL or ENTERPRISE plan is required.
+After installing, sign in once with your Assetfy account. An [Assetfy account](https://assetfy.com/pricing/) with a PROFESSIONAL or ENTERPRISE plan is required.
 
 ### Claude Code
 
