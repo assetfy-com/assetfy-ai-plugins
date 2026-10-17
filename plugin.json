@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "assetfy",
+  "description": "Official real estate data for Germany and Austria: Flurstück, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings, terrain, 3D models and listings. Read-only."
+}
