@@ -103,19 +103,7 @@ Streamable HTTP, OAuth 2.1 with dynamic client registration and PKCE.
 
 ## What it covers
 
-| Data | Germany | Austria |
-|---|---|---|
-| Flurstücke (cadastre) | 15 of 16 states; Bayern only as a map image | yes (BEV) |
-| Buildings with storeys, Traufhöhe, Firsthöhe | yes; heights from LoD2 where the state publishes them | — |
-| Bebauungspläne with plan documents | states with a public plan register | — |
-| Bodenrichtwerte | where published as open data | — |
-| Terrain (DGM1, 1 m) | all states except Bremen and Saarland | — |
-| 3D building models (LoD2 surfaces) | BE, BB, HB, HH, HE, NW, RP, SN | — |
-| Aerial images | all states | — |
-| Public EV charging points | yes (Bundesnetzagentur) | — |
-| Property listings | yes | yes |
-
-Each result says which states it searched and where data is missing. The current state per Bundesland comes from the tool `assetfy_get_data_coverage`.
+Data coverage and freshness per Bundesland: [assetfy.com/datenaktualitaet](https://assetfy.com/datenaktualitaet/). Each result also says which states it searched and where data is missing.
 
 ## Plans
 
