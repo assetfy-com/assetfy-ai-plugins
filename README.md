@@ -14,7 +14,7 @@ The server runs at `https://mcp.assetfy.com/mcp` (Streamable HTTP, OAuth 2.1). A
 ## Where Assetfy is listed
 
 - [Anthropic Claude directory](https://claude.ai/directory/connectors/assetfy): Assetfy connector for Claude on the web, desktop and mobile, Claude Code and Cowork
-- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/com.assetfy%2Fmcp/versions/latest): `com.assetfy/mcp`
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/com.assetfy%2Fmcp/versions/latest): `com.assetfy/mcp`, metadata in [`server.json`](server.json)
 
 ## Claude
 
@@ -61,9 +61,3 @@ Any MCP client that supports remote servers can connect directly:
 - Setup and examples: https://assetfy.com/produkt/ai-mcp-anbindung/
 - Privacy: https://assetfy.com/datenschutz/
 - Contact: hallo@assetfy.com
-
-## Validate
-
-```bash
-node scripts/validate-template.mjs
-```

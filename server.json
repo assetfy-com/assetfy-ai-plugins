@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.assetfy/mcp",
+  "title": "Assetfy",
+  "description": "Germany and Austria: Flurstücke, Bebauungspläne, Bodenrichtwerte, buildings and listings.",
+  "websiteUrl": "https://assetfy.com/produkt/ai-mcp-anbindung/",
+  "repository": {
+    "url": "https://github.com/assetfy-com/assetfy-ai-plugins",
+    "source": "github"
+  },
+  "version": "1.1.1",
+  "icons": [
+    {
+      "src": "https://assetfy.com/images/favicon-assetfy/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.assetfy.com/mcp"
+    }
+  ]
+}
