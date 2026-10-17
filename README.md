@@ -7,8 +7,17 @@ The server runs at `https://mcp.assetfy.com/mcp` (Streamable HTTP, OAuth 2.1). A
 | Plugin | Client | Path |
 |---|---|---|
 | `assetfy` | Cursor | [`plugins/assetfy`](plugins/assetfy) |
+| `assetfy` | Gemini CLI | [`gemini-extension.json`](gemini-extension.json) |
 
 Also listed in the [official MCP Registry](https://registry.modelcontextprotocol.io) as `com.assetfy/mcp` and in the [Claude connector directory](https://claude.ai/directory/assetfy).
+
+## Gemini CLI
+
+```bash
+gemini extensions install https://github.com/assetfy-com/assetfy-ai-plugins
+```
+
+Then sign in once with `/mcp auth assetfy`.
 
 ## Install by URL
 

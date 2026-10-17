@@ -1,0 +1,11 @@
+{
+  "name": "assetfy",
+  "version": "1.0.0",
+  "description": "Official real estate data for Germany and Austria: Flurstück, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings, terrain, 3D models and listings. Read-only.",
+  "mcpServers": {
+    "assetfy": {
+      "httpUrl": "https://mcp.assetfy.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
