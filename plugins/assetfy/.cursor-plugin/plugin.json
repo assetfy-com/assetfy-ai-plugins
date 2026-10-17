@@ -1,0 +1,18 @@
+{
+  "name": "assetfy",
+  "displayName": "Assetfy",
+  "version": "1.0.0",
+  "description": "Site checks for German and Austrian real estate from official data: Flurstück on the cadastral map, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings with heights, terrain, 3D building models and property listings. Read-only; sign in with an Assetfy account.",
+  "author": {
+    "name": "Assetfy",
+    "email": "hallo@assetfy.com",
+    "url": "https://assetfy.com"
+  },
+  "homepage": "https://assetfy.com/produkt/ai-mcp-anbindung/",
+  "repository": "https://github.com/assetfy-com/assetfy-ai-plugins",
+  "license": "MIT",
+  "keywords": ["real estate", "cadastre", "Flurstück", "Bebauungsplan", "Bodenrichtwert", "zoning", "land value", "Germany", "Austria", "mcp"],
+  "logo": "assets/logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

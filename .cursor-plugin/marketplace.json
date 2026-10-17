@@ -1,0 +1,18 @@
+{
+  "name": "assetfy",
+  "owner": {
+    "name": "Assetfy",
+    "email": "hallo@assetfy.com"
+  },
+  "metadata": {
+    "description": "Assetfy plugins: official German and Austrian real estate data in your AI assistant.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "assetfy",
+      "source": "./plugins/assetfy",
+      "description": "Parcels, Bebauungsplan, Bodenrichtwert, buildings and property listings for Germany and Austria."
+    }
+  ]
+}
