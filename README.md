@@ -59,6 +59,22 @@ After installing, sign in once with your Assetfy account. An [Assetfy account](h
 
 Or add the server only: `claude mcp add --transport http assetfy https://mcp.assetfy.com/mcp`, then `/mcp` to sign in.
 
+### Gemini CLI
+
+```bash
+gemini extensions install https://github.com/assetfy-com/assetfy-ai-plugins
+```
+
+Then `/mcp auth assetfy`.
+
+### Antigravity
+
+```bash
+agy plugin install https://github.com/assetfy-com/assetfy-ai-plugins
+```
+
+Then authenticate under Agent settings → Customizations.
+
 ### ChatGPT and Codex
 
 The plugin is in [`plugins/chatgpt`](plugins/chatgpt); the current release as a ZIP file is under [Releases](https://github.com/assetfy-com/assetfy-ai-plugins/releases).
