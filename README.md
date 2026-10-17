@@ -10,7 +10,22 @@ The server runs at `https://mcp.assetfy.com/mcp` (Streamable HTTP, OAuth 2.1). A
 | `assetfy` | Gemini CLI | [`gemini-extension.json`](gemini-extension.json) |
 | `assetfy` | Antigravity | [`plugin.json`](plugin.json), [`mcp_config.json`](mcp_config.json) |
 
-Also listed in the [official MCP Registry](https://registry.modelcontextprotocol.io) as `com.assetfy/mcp` and in the [Claude connector directory](https://claude.ai/directory/assetfy).
+## Where Assetfy is listed
+
+- [Anthropic Claude directory](https://claude.ai/directory/connectors/assetfy): Assetfy connector for Claude on the web, desktop and mobile, Claude Code and Cowork
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/com.assetfy%2Fmcp/versions/latest): `com.assetfy/mcp`
+
+## Claude
+
+In Claude (web, desktop, mobile): open the [Assetfy connector in the Claude directory](https://claude.ai/directory/connectors/assetfy) and select **Connect**, then sign in with your Assetfy account.
+
+In Claude Code:
+
+```bash
+claude mcp add --transport http assetfy https://mcp.assetfy.com/mcp
+```
+
+Then run `/mcp` in Claude Code and sign in with your Assetfy account.
 
 ## Gemini CLI
 
