@@ -18,7 +18,6 @@
 
 <p align="center">
   <a href="https://assetfy.com/produkt/ai-mcp-anbindung/"><b>Setup &amp; examples</b></a> ·
-  <a href="https://youtu.be/H5qQTBntt5o"><b>Demo video</b></a> ·
   <a href="https://assetfy.com/pricing/"><b>Plans</b></a> ·
   <a href="#data-and-security"><b>Data &amp; security</b></a>
 </p>
