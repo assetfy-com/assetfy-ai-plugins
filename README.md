@@ -35,7 +35,7 @@ Built for brokers, project developers, homebuilders, architects, valuers and inv
   <tr>
     <td align="center" width="170">
       <a href="https://claude.ai/directory/connectors/assetfy"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Add to Claude"></a><br>
-      <sub>Claude web, desktop, mobile</sub>
+      <sub>Claude apps</sub>
     </td>
     <td align="center" width="170">
       <a href="https://cursor.com/en/install-mcp?name=Assetfy&config=eyJ1cmwiOiJodHRwczovL21jcC5hc3NldGZ5LmNvbS9tY3AifQ=="><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Add to Cursor"></a><br>
@@ -43,7 +43,7 @@ Built for brokers, project developers, homebuilders, architects, valuers and inv
     </td>
     <td align="center" width="170">
       <a href="https://vscode.dev/redirect/mcp/install?name=Assetfy&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.assetfy.com%2Fmcp%22%2C%22type%22%3A%22http%22%7D"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="Add to VS Code"></a><br>
-      <sub>VS Code / GitHub Copilot</sub>
+      <sub>VS Code / Copilot</sub>
     </td>
   </tr>
 </table>
