@@ -1,0 +1,22 @@
+name: Plugin or connection problem
+description: The plugin does not install, the connection fails, or a tool call errors.
+labels: [bug]
+body:
+  - type: dropdown
+    id: client
+    attributes:
+      label: Client
+      options: [Claude (web/desktop/mobile), Claude Code, Cursor, VS Code / Copilot, ChatGPT / Codex, Gemini CLI, Antigravity, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Steps, the prompt you used and the error message. Never paste access tokens.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Client version

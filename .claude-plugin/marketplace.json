@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "assetfy",
+  "description": "Assetfy plugin marketplace for Claude Code",
+  "owner": {
+    "name": "Assetfy",
+    "email": "hallo@assetfy.com"
+  },
+  "plugins": [
+    {
+      "name": "assetfy",
+      "description": "Official real estate data for Germany and Austria: Flurstück, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings with heights, terrain, 3D building models and property listings. Read-only.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Assetfy",
+        "email": "hallo@assetfy.com"
+      },
+      "source": "./plugins/assetfy",
+      "category": "productivity",
+      "homepage": "https://assetfy.com/produkt/ai-mcp-anbindung/"
+    }
+  ]
+}

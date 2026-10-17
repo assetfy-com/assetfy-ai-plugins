@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, subscription or data question
+    url: mailto:hallo@assetfy.com
+    about: Questions about your Assetfy account, plan, data coverage or a specific result go to hallo@assetfy.com.
+  - name: Security issue
+    url: https://github.com/assetfy-com/assetfy-ai-plugins/security/policy
+    about: Please report security issues privately, not as a public issue.
