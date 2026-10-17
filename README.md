@@ -143,12 +143,13 @@ Privacy policy: [assetfy.com/datenschutz](https://assetfy.com/datenschutz/) · S
 
 | Path | Used by |
 |---|---|
-| [`plugins/assetfy`](plugins/assetfy) | Claude (Claude Code, Cowork, Claude apps) and Cursor |
+| [`plugins/assetfy`](plugins/assetfy) | Claude (Claude Code, Cowork, Claude apps), Cursor and Grok Build |
 | [`plugins/chatgpt`](plugins/chatgpt) | ChatGPT and Codex |
 | [`gemini-extension.json`](gemini-extension.json), [`GEMINI.md`](GEMINI.md) | Gemini CLI |
 | [`plugin.json`](plugin.json), [`mcp_config.json`](mcp_config.json), [`skills/`](skills) | Antigravity |
 | [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json) | Claude Code marketplace |
 | [`.cursor-plugin/marketplace.json`](.cursor-plugin/marketplace.json) | Cursor marketplace |
+| [`.grok-plugin/marketplace.json`](.grok-plugin/marketplace.json) | Grok Build marketplace |
 | [`server.json`](server.json) | Official MCP Registry entry `com.assetfy/mcp` |
 
 ## Support

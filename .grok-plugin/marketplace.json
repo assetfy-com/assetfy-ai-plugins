@@ -1,0 +1,18 @@
+{
+  "name": "assetfy",
+  "owner": {
+    "name": "Assetfy",
+    "email": "hallo@assetfy.com"
+  },
+  "plugins": [
+    {
+      "name": "assetfy",
+      "source": "./plugins/assetfy",
+      "description": "Official real estate data for Germany and Austria: Flurstück, Bebauungsplan, Bodenrichtwert, buildings, terrain, 3D models and listings. Read-only.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Assetfy"
+      }
+    }
+  ]
+}
