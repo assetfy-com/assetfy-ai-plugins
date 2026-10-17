@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://registry.modelcontextprotocol.io/v0.1/servers/com.assetfy%2Fmcp/versions/latest"><img src="https://img.shields.io/badge/MCP_Registry-com.assetfy%2Fmcp-000000?logo=modelcontextprotocol&logoColor=white" alt="MCP Registry: com.assetfy/mcp"></a>
   <img src="https://img.shields.io/badge/Auth-OAuth_2.1-09A76C" alt="Auth: OAuth 2.1">
-  <img src="https://img.shields.io/badge/Tools-39_read--only-09A76C" alt="39 read-only tools">
+  <img src="https://img.shields.io/badge/Tools-read--only-09A76C" alt="Read-only tools">
   <img src="https://img.shields.io/badge/Coverage-Germany_%7C_Austria-112240" alt="Coverage: Germany and Austria">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/assetfy-com/assetfy-ai-plugins?color=112240" alt="License: MIT"></a>
 </p>
