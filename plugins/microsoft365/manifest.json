@@ -1,0 +1,42 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.30/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.30",
+  "version": "1.0.0",
+  "id": "92c23a80-9f30-42e1-b04c-46c55d25d9a5",
+  "developer": {
+    "name": "Assetfy",
+    "websiteUrl": "https://assetfy.com/produkt/ai-mcp-anbindung/",
+    "privacyUrl": "https://assetfy.com/datenschutz/",
+    "termsOfUseUrl": "https://assetfy.com/termsofservice/"
+  },
+  "name": {
+    "short": "Assetfy",
+    "full": "Assetfy: Official real estate data for Germany and Austria"
+  },
+  "description": {
+    "short": "Parcels, zoning plans, land values and buildings for Germany and Austria",
+    "full": "Ask Copilot about an address, a Flurstück (cadastral parcel) or a property listing in Germany or Austria. Assetfy answers from official data: parcel size and outline, Bebauungsplan (zoning plan) with its documents, Bodenrichtwert (official land value), GRZ/GFZ, buildings with eaves and ridge height, terrain, 3D building models, aerial images and property listings. Every parcel links to the Assetfy map. All tools are read-only; nothing is created or changed in your account. Requires an Assetfy account with a PROFESSIONAL or ENTERPRISE plan (assetfy.com/pricing)."
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "accentColor": "#09A76C",
+  "validDomains": ["assetfy.com", "mcp.assetfy.com"],
+  "agentConnectors": [
+    {
+      "id": "assetfy",
+      "displayName": "Assetfy",
+      "description": "Official real estate data for Germany and Austria: Flurstück, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings with heights, terrain, 3D building models and property listings. Read-only.",
+      "toolSource": {
+        "remoteMcpServer": {
+          "mcpServerUrl": "https://mcp.assetfy.com/mcp",
+          "authorization": {
+            "type": "DynamicClientRegistration",
+            "referenceId": "${{ASSETFY_DCR_REFERENCE_ID}}"
+          }
+        }
+      }
+    }
+  ]
+}
