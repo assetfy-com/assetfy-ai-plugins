@@ -77,7 +77,7 @@ Then authenticate under Agent settings → Customizations.
 
 ### ChatGPT and Codex
 
-The plugin is in [`plugins/chatgpt`](plugins/chatgpt); the upload ZIP is under [Releases](https://github.com/assetfy-com/assetfy-ai-plugins/releases).
+The plugin is in [`plugins/chatgpt`](plugins/chatgpt); the current release as a ZIP file is under [Releases](https://github.com/assetfy-com/assetfy-ai-plugins/releases).
 
 ### Any other MCP client
 
