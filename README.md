@@ -107,13 +107,6 @@ Data coverage and freshness per Bundesland: [assetfy.com/datenaktualitaet](https
 
 ## Plans
 
-| | PROFESSIONAL | ENTERPRISE |
-|---|---|---|
-| Parcel, planning, buildings, land value, terrain, 3D, listings | yes | yes |
-| Site screening across many parcels (by use, size, Bebauungsplan, motorway access) | — | yes |
-| Daily limit | 100 prompts per day | none |
-| Site-plan export (DXF, PDF, IFC, GeoPackage) | 35 locations per month | unlimited |
-
 Details and booking: [assetfy.com/pricing](https://assetfy.com/pricing/).
 
 ## Data and security
