@@ -133,7 +133,7 @@ Details and booking: [assetfy.com/pricing](https://assetfy.com/pricing/).
 - **Read-only.** No tool creates, changes or deletes anything in Assetfy or in your account. Your own saved places and favourites can be read; saving happens in the Assetfy app.
 - **What the server sees:** only the tool calls of your assistant with their parameters, such as an address or a parcel ID. The conversation, files and chat history do not reach the server.
 - **Logging:** per tool call we log the tool name, the parameters (truncated to 1,000 characters), duration, response size, errors, the client ID and a pseudonymous user ID (shortened SHA-256 hash). Logs are kept for 30 days.
-- **Access tokens** are checked against the Assetfy authorization server on every call (cached for at most 60 seconds). Disconnect assistants under My account → KI MCP-Konnektor on assetfy.com; access ends within a minute.
+- **Access tokens** are checked against the Assetfy authorization server on every call (cached for at most 60 seconds). Disconnect assistants under [My account → KI MCP-Konnektor](https://assetfy.com/settings/mcp/) on assetfy.com; access ends within a minute.
 - **Hosting:** the server runs in Frankfurt (Germany).
 - **Plugins** in this repository contain no code: they add the server URL and a short skill that explains the tools.
 
