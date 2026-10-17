@@ -7,6 +7,7 @@ The server runs at `https://mcp.assetfy.com/mcp` (Streamable HTTP, OAuth 2.1). A
 | Plugin | Client | Path |
 |---|---|---|
 | `assetfy` | Claude (Claude Code, Cowork, chat) and Cursor | [`plugins/assetfy`](plugins/assetfy) |
+| `assetfy` | ChatGPT and Codex | [`plugins/chatgpt`](plugins/chatgpt) (ZIP under [Releases](https://github.com/assetfy-com/assetfy-ai-plugins/releases)) |
 | `assetfy` | Gemini CLI | [`gemini-extension.json`](gemini-extension.json) |
 | `assetfy` | Antigravity | [`plugin.json`](plugin.json), [`mcp_config.json`](mcp_config.json) |
 
