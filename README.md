@@ -6,7 +6,7 @@ The server runs at `https://mcp.assetfy.com/mcp` (Streamable HTTP, OAuth 2.1). A
 
 | Plugin | Client | Path |
 |---|---|---|
-| `assetfy` | Cursor | [`plugins/assetfy`](plugins/assetfy) |
+| `assetfy` | Claude (Claude Code, Cowork, chat) and Cursor | [`plugins/assetfy`](plugins/assetfy) |
 | `assetfy` | Gemini CLI | [`gemini-extension.json`](gemini-extension.json) |
 | `assetfy` | Antigravity | [`plugin.json`](plugin.json), [`mcp_config.json`](mcp_config.json) |
 

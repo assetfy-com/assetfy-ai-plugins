@@ -1,0 +1,14 @@
+{
+  "name": "assetfy",
+  "version": "1.0.0",
+  "description": "Official real estate data for Germany and Austria in Claude: Flurstück, Bebauungsplan, Bodenrichtwert, GRZ/GFZ, buildings with heights, terrain, 3D building models and property listings. Read-only.",
+  "author": {
+    "name": "Assetfy",
+    "email": "hallo@assetfy.com",
+    "url": "https://assetfy.com"
+  },
+  "homepage": "https://assetfy.com/produkt/ai-mcp-anbindung/",
+  "repository": "https://github.com/assetfy-com/assetfy-ai-plugins",
+  "license": "MIT",
+  "keywords": ["real estate", "cadastre", "Flurstück", "Bebauungsplan", "Bodenrichtwert", "zoning", "land value", "Germany", "Austria"]
+}
