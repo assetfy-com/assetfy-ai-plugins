@@ -8,7 +8,18 @@
     "url": "https://assetfy.com"
   },
   "homepage": "https://assetfy.com/produkt/ai-mcp-anbindung/",
+  "privacyPolicyUrl": "https://assetfy.com/datenschutz/",
   "repository": "https://github.com/assetfy-com/assetfy-ai-plugins",
   "license": "MIT",
-  "keywords": ["real estate", "cadastre", "Flurstück", "Bebauungsplan", "Bodenrichtwert", "zoning", "land value", "Germany", "Austria"]
+  "keywords": [
+    "real estate",
+    "cadastre",
+    "Flurstück",
+    "Bebauungsplan",
+    "Bodenrichtwert",
+    "zoning",
+    "land value",
+    "Germany",
+    "Austria"
+  ]
 }
